@@ -18,7 +18,7 @@
   * My default language choice is Python :snake:, but I'm not married to it.
   * I primarily work on developing back-ends for internet products.
     * I design and build web APIs.
-    * I hate calling myself "fUlL-StACk" or "bACk-ENd", because that's stupid. I'm an engineer, a solver of problems, a builder. Those labels are new the result of exploitative industry folks who needed a way to sell software engineering to non-technical people.
+    * I hate calling myself "fUlL-StACk" or "bACk-ENd", because that's stupid. I'm an engineer, a solver of problems, a builder. Those labels are new, the result of exploitative industry folks who needed a way to sell software engineering to non-technical people.
 * If you want to talk to me, I'm pretty open.
   * I like talking programming.
   * I like talking about new and old tech.
